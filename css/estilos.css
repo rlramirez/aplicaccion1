@@ -11,7 +11,7 @@ header.cabecera{
 	background: #000;
 	width: 90%;
 	margin: 0 auto;
-	
+
 }
 header.cabecera h1{
 	padding: 1em 1em;
@@ -25,4 +25,32 @@ nav.menuprincipal, footer{
 	margin: 0 auto;
 	background: #	;
 }
+
+header.cabecera h1{
+	padding: 1em 1em;
+}
+.articulo{
+	color: blue;
+	font-size: 22px;
+}
+nav.menuprincipal, footer{
+	width: 90%;
+	margin: 0 auto;
+	background: #	;
+}
+
+
+header.cabecera h1{
+	padding: 1em 1em;
+}
+.articulo{
+	color: blue;
+	font-size: 22px;
+}
+nav.menuprincipal, footer{
+	width: 90%;
+	margin: 0 auto;
+	background: #	;
+}
+
 
